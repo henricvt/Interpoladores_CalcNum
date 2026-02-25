@@ -1,3 +1,4 @@
-# Algoritmo criado visando facilitar e padronizar as respostas referentes às questões resolvidas sobre o conteúdo de Interpolador de Newton, da disciplina de Cálculo Númerico.
+# Algoritmos criados visando facilitar e padronizar as respostas referentes às questões resolvidas sobre o conteúdo de Interpoladores de Newton e Lagrange, da disciplina de Cálculo Númerico.
+
 
 
